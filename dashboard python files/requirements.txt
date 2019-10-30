@@ -1,4 +1,4 @@
-Django==1.11.1
+Django==1.11.23
 django-cors-headers==2.0.2
 django-extensions==1.7.9
 django-extra-fields==0.9
